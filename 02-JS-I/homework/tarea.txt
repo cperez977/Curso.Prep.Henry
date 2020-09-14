@@ -1,0 +1,27 @@
+## Instrucciones
+---
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes
+conceptos como si se lo estuvieras explicando a un niño de 12 años.
+ Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* Variables:
+ las variables son características que se desea nombrar y valorar de cualquier elemento o cosa.
+
+* Strings:
+ que en inglés significa cadena, son los caracteres que se utilizan para escribir en informática
+    se expresan entre comillas simples o dobles dependiendo del lenguaje de programación.
+
+* Funciones (argumentos, `return`):
+ las funciones son partes de un programa que realiza un cálculo
+determinado utilizando los datos o variables que se le dan.
+ Los argumentos son los nombres que se le dan a las variables con las que vá a trabajar la función.
+  La sentencia'return' finaliza la ejecución de la función y
+   especifica un valor para ser devuelto a quien llama a la función
+
+* Declaraciones `if`
+la declaración if en una funcion permite ejecutar una porción de una función
+ si la condición es verdadera
+
+* Valores booleanos (`true`, `false`)
+    Es un tipo de dato lógico que puede representar valores de lógica binaria,
+     esto es 2 valores, que normalmente representan falso(false) o verdadero(true).
